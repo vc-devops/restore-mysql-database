@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BACKUP_DIR=/var/www/dbbackup
+BACKUP_DIR=/var/www/dbrestore
 
 declare -a databases
 
@@ -12,7 +12,8 @@ done
 
 for i in "${databases[@]}"; do
     declare -a frmfiles
-    for file in $(ls -d $i *.frm); do
+    echo $i
+    for file in $(ls $i | grep frm); do
         if [ -f "$i/$file" ]; then
             frmfiles=("$i/$file" "${frmfiles[@]}")
         fi

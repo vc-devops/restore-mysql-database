@@ -1,0 +1,44 @@
+/var/www/dbbackup/vicoen_db/wp_posts.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vicoen_db/wp_postmeta.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vicoen_db/wp_options.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vicoen_db/wp_links.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vicoen_db/wp_comments.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vicoen_db/wp_commentmeta.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vinapharco_db/wp_users.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vinapharco_db/wp_usermeta.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vinapharco_db/wp_term_taxonomy.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vinapharco_db/wp_terms.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
+/var/www/dbbackup/vinapharco_db/wp_term_relationships.frm
+Usage: mysqlfrm --server=[user[:<pass>]@host[:<port>][:<socket>]|<login-path>[:<port>][:<socket>]] [path\tbl1.frm|db:tbl.frm]
+
+mysqlfrm: error: Can't connect to MySQL server on 'localhost:3306' (111 Connection refused)
